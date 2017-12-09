@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-05122012-070339";"";
+"REFERENCE";"XSIR1605";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"XSIR - Rolled ballscrews";"";
+"TraceParts.InstanceId";"10-05122012-070339A96W73TI2869QTH7BQ9PIIYK";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"FLI:/F_FLI/FLI.10/FLI.10.010/10-05122012-070339";"";
+"SUPPLIER";"FLI";"";
+"DESIGN";"Ballscrews type XSIR1605, length : 300 mm";"";
+"TraceParts.PartVersion";"1.2.6";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
